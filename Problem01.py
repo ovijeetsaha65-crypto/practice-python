@@ -1,3 +1,4 @@
+print("Welcome to the Sample String")
 def count_characters(text):
     alphabets = 0
     digits = 0
